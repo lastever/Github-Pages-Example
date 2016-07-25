@@ -222,12 +222,12 @@ a.external:hover {
 }
 .index-wrapper .title {
   display: block;
-  font-size: 22px;
-  margin-bottom: 15px;
+  font-size: 16px;
+  margin-bottom: 4px;
   word-break: break-all;
-  font-weight: bold;
-  margin-bottom: 25px;
-  padding-bottom: 10px;
+  font-weight: normal;
+  margin-bottom: 2px;
+  padding-bottom: 8px;
   border-bottom: 2px solid #eee;
   color: #444;
 }
