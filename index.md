@@ -6,7 +6,8 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>Lastever</h1>
+        <h2>Lastever</h2>
+        <h3>博客备份</h3>
       </div>
       <div id="particles-js"></div>
     </div>
