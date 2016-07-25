@@ -1,6 +1,6 @@
 permalink: /:title
 
-title: Lastever
+title: Lastever 博客备份
 url: lastever.github.io  
 feed: /atom.xml
 author_info: <a href="http:lastever.github.io">Lastever</a>
