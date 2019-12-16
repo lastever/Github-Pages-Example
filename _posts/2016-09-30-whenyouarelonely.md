@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      当你孤单时会想起谁
+title: 当你孤单时会想起谁
 category: blog
 description: 
 ---
